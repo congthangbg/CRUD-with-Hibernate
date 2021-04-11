@@ -1,9 +1,0 @@
-eclipse.preferences.version=1
-encoding//WebContent/admin/header.jsp=UTF-8
-encoding//WebContent/admin/index.jsp=UTF-8
-encoding//WebContent/common/inform.jsp=UTF-8
-encoding//src/edu/poly/admin/servlet/UserManagementServlet.java=UTF-8
-encoding//src/edu/poly/admin/servlet/VideoManagementServlet.java=UTF-8
-encoding//src/edu/poly/common/PageInfo.java=UTF-8
-encoding//src/edu/poly/common/PageType.java=UTF-8
-encoding//src/edu/poly/common/UploadUtils.java=UTF-8
